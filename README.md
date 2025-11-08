@@ -1,144 +1,125 @@
+# Hi there, I'm Ujjwal Bajpai 👋
+
 <div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=IT+Intern+%40+IFFCO+%F0%9F%92%BC;Pre-final+Year+ECE+%40+RVCE+%F0%9F%8E%93;ML+%26+DSA+Enthusiast+%F0%9F%A7%A0;Building+Cool+Stuff+%F0%9F%9A%80)
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujjwal%20Bajpai&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=ECE+%40+RVCE+%F0%9F%8E%93;Web+Development+Enthusiast+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ujjwal120605&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-### 🌟 About Me
-
+## 🚀 About Me
 ```javascript
 const ujjwal = {
-    location: "RVCE, Bangalore 📍",
-    education: "Electronics & Communication Engineering",
-    passions: ["Web Development", "Artificial Intelligence", "Machine Learning"],
-    currentlyLearning: ["Advanced React Patterns", "Deep Learning", "System Design"],
-    funFact: "I debug in my dreams 💭",
+    location: "Bangalore, Karnataka 📍",
+    education: "B.E. in ECE @ RVCE",
+    cgpa: "8.52 ⭐",
+    currentRole: "IT Intern @ IFFCO",
+    interests: ["Web Dev", "Machine Learning", "Problem Solving"],
+    achievement: "🥉 2nd Runner-Up @ BITS Pilani API Hackathon",
     motto: "Code. Build. Innovate. Repeat. 🔄"
 };
 ```
 
----
+<br/>
 
-### 🛠️ Tech Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
-#### **Frontend Magic** ✨
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### **Backend Power** ⚡
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **AI/ML Tools** 🤖
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### **DevOps & Tools** 🔧
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
----
+<br/>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-### 🚀 Featured Projects
+## 🎯 Featured Projects
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME_2)
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🤖 **CodRev** | AI-powered code reviewer using Gemini API | React, Tailwind, Gemini API | [Repo](https://github.com/Ujjwal120605/codrev) • [Demo](https://codrev.vercel.app) |
+| 📚 **RAG System** | Retrieval-Augmented Generation implementation | Python, ML, NLP | [Repo](https://github.com/Ujjwal120605/rag) |
+| 🏢 **IFFCO Portal** | Enterprise web application with authentication | HTML, CSS, JavaScript | [Repo](https://github.com/Ujjwal120605/iffco_project) • [Demo](https://iffco-project.vercel.app/) |
+| 💼 **Portfolio** | Responsive personal portfolio website | HTML, CSS, JavaScript | [Repo](https://github.com/Ujjwal120605/CV) • [Demo](https://cv-seven-puce.vercel.app/) |
 
 </div>
 
----
+<br/>
 
-### 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujjwal120605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal120605&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
----
-
-### 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal120605&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
-### 💬 Let's Connect!
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ujjwal120605&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 💼 Currently
+
+- 🔭 Working as **IT Intern @ IFFCO** (July - Sep 2025)
+- 🌱 Learning **Advanced React**, **Deep Learning**, and **System Design**
+- 💪 Practicing **DSA** on LeetCode
+- 🎓 Pre-final year student at **RV College of Engineering**
+- ⚡ Fun fact: **I debug in my dreams** 💭
+
+<br/>
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-bajpai-9aa242289/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ujjwalbajpai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cv-seven-puce.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpaiujjwal3@gmail.com)
 
 </div>
 
+<br/>
+
+<div align="center">
+  
+  ### 💡 Quote of the Day
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
-
-### 💡 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-**⭐ From [Ujjwal Bajpai](https://github.com/YOUR_GITHUB_USERNAME)**
+  
+  **⭐ From [Ujjwal Bajpai](https://github.com/Ujjwal120605)**
+  
+  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
