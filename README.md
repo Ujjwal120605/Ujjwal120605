@@ -106,9 +106,10 @@ const ujjwal = {
 </td>
 
 <td width="50%">
-<h3 align="center">📚 RAG System</h3>
+<h3 align="center">📚DocuMind</h3>
 <div align="center">  
 <a href="https://github.com/Ujjwal120605/rag" target="_blank"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+<a href="https://rag-m6ummyind-ujjwalbajpaiec23-5233s-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
 <br><br>
 <p><strong>Python, ML, NLP</strong> - Retrieval-Augmented Generation system for enhanced document search and intelligent responses.</p>
 </div>
